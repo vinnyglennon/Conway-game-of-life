@@ -1,0 +1,40 @@
+{ 
+
+	"name": "Conway-game-of-life", 
+
+	"owners": [ 
+
+		"vinnyglennon" 
+
+	], 
+
+
+	"location": {
+		"area": "Barrow Street",
+		"state" : "Dublin",
+		"country-code": "Ireland"
+	},
+	"features": [
+		{
+			"smokers": false
+		},
+		{
+			"pets": false
+		},
+		{
+			"wifi": true
+		},
+		{
+			"washer": true
+		},
+		{
+			"dryer": true
+		}
+	],
+	"offering": {
+		"bed": 0,
+		"couch": 1
+	},
+	"requests": [ ],
+	"merges": [ ]
+}
